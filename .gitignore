@@ -1,0 +1,18 @@
+## Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+## Node
+node_modules/
+
+## Model & data (optional)
+# If you want to keep model and dataset out of git, uncomment the following lines
+# backend/model.pkl
+# dataset/*.csv
+
+## OS / Editor
+.DS_Store
+.vscode/
+*.log
